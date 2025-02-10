@@ -1,4 +1,4 @@
-## Flat Field Correction Repo
+## Repository for 2PIP
 
 ### Description
 
